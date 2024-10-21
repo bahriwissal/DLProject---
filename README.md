@@ -8,8 +8,7 @@
 - [Dependencies and Installation](#dependencies-and-installation)
 - [How to Run](#how-to-run)
 - [Results](#results)
-- [Future Work](#future-work)
-- [References](#references)
+
 
 ## Project Overview
 This project aims to build a deep learning model using Long Short-Term Memory (LSTM) to predict the sentiment of movie reviews based on the IMDB 50K dataset. By leveraging the strengths of LSTMs in processing sequential data, the model analyzes text reviews to classify them as positive or negative.
